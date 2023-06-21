@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fish">Рыбы</string>
+    <string name="na">Наживки</string>
+    <string name="sna">Снасти</string>
+    <string name="history">Истории</string>
+
+    <string name="bludo1">Горячие блюда</string>
+    <string name="bludo2">Салаты</string>
+    <string name="bludo3">Десерты</string>
+    <string name="bludo4">Напитки</string>
+    <string name="Onas">О нас</string>
+</resources>

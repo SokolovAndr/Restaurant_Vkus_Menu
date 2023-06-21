@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:tools.showIn="navigation_view"
+    tools:ignore="NamespaceTypo">
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/bludo1"
+            android:id="@+id/id_fish"
+            android:icon="@drawable/_427858_bowl_food_food_bowl_hot_food_hotsoup_icon"/>
+
+        <item android:title="@string/bludo2"
+            android:id="@+id/id_na"
+            android:icon="@drawable/kapusta"/>
+
+        <item android:title="@string/bludo3"
+            android:id="@+id/id_sna"
+            android:icon="@drawable/icecream"/>
+
+        <item android:title="@string/bludo4"
+            android:id="@+id/id_history"
+            android:icon="@drawable/coffee2"/>
+
+        <item android:title="@string/Onas"
+            android:id="@+id/id_Onas"
+            android:icon="@drawable/restaurant"/>
+    </group>
+
+
+</menu>
